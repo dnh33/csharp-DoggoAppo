@@ -1,4 +1,4 @@
-namespace cPizza_hut.Models;
+namespace DoggoAppo.Models;
 
 public class ErrorViewModel
 {

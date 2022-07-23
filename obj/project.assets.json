@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/opc/projects/cPizza-hut/cPizza-hut.csproj",
-      "projectName": "cPizza-hut",
-      "projectPath": "/home/opc/projects/cPizza-hut/cPizza-hut.csproj",
+      "projectUniqueName": "/home/opc/projects/DoggoAppo/DoggoAppo.csproj",
+      "projectName": "DoggoAppo",
+      "projectPath": "/home/opc/projects/DoggoAppo/DoggoAppo.csproj",
       "packagesPath": "/home/opc/.nuget/packages/",
-      "outputPath": "/home/opc/projects/cPizza-hut/obj/",
+      "outputPath": "/home/opc/projects/DoggoAppo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/opc/.nuget/NuGet/NuGet.Config"

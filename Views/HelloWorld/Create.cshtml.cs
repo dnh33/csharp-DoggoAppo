@@ -6,19 +6,19 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace cPizza_hut.Views.HelloWorld
+namespace DoggoAppo.Views.HelloWorld
 {
-    public class Create : PageModel
+  public class Create : PageModel
+  {
+    private readonly ILogger<Create> _logger;
+
+    public Create(ILogger<Create> logger)
     {
-        private readonly ILogger<Create> _logger;
-
-        public Create(ILogger<Create> logger)
-        {
-            _logger = logger;
-        }
-
-        public void OnGet()
-        {
-        }
+      _logger = logger;
     }
+
+    public void OnGet()
+    {
+    }
+  }
 }

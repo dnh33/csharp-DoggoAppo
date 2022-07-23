@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "cPizza-hut/1.0.0": {
+      "DoggoAppo/1.0.0": {
         "runtime": {
-          "cPizza-hut.dll": {}
+          "DoggoAppo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "cPizza-hut/1.0.0": {
+    "DoggoAppo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

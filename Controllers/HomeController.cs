@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using cPizza_hut.Models;
+using DoggoAppo.Models;
 
-namespace cPizza_hut.Controllers;
+namespace DoggoAppo.Controllers;
 
 public class HomeController : Controller
 {
