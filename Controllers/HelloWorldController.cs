@@ -3,8 +3,6 @@ using DoggoAppo.Models;
 
 namespace DoggoAppo.Controllers
 {
-
-
   public class HelloWorldController : Controller
   {
     public IActionResult Index()
@@ -20,7 +18,13 @@ namespace DoggoAppo.Controllers
 
     public IActionResult Create()
     {
-      return View();
+      var dogVm = new DogViewModel();
+      return View(dogVm);
+    }
+
+    public IActionResult CreateDog(DogViewModel dogViewModel)
+    {
+      return View("Index");
     }
 
     public string Hello()
