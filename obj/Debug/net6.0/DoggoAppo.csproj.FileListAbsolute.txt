@@ -1,11 +1,3 @@
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.csproj.AssemblyReference.cache
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.GeneratedMSBuildEditorConfig.editorconfig
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.AssemblyInfoInputs.cache
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.AssemblyInfo.cs
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.csproj.CoreCompileInputs.cache
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.MvcApplicationPartsAssemblyInfo.cache
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.RazorAssemblyInfo.cache
-/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.RazorAssemblyInfo.cs
 /home/opc/projects/DoggoAppo/bin/Debug/net6.0/appsettings.Development.json
 /home/opc/projects/DoggoAppo/bin/Debug/net6.0/appsettings.json
 /home/opc/projects/DoggoAppo/bin/Debug/net6.0/DoggoAppo.staticwebassets.runtime.json
@@ -14,6 +6,14 @@
 /home/opc/projects/DoggoAppo/bin/Debug/net6.0/DoggoAppo.runtimeconfig.json
 /home/opc/projects/DoggoAppo/bin/Debug/net6.0/DoggoAppo.dll
 /home/opc/projects/DoggoAppo/bin/Debug/net6.0/DoggoAppo.pdb
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.csproj.AssemblyReference.cache
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.GeneratedMSBuildEditorConfig.editorconfig
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.AssemblyInfoInputs.cache
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.AssemblyInfo.cs
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.csproj.CoreCompileInputs.cache
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.MvcApplicationPartsAssemblyInfo.cache
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.RazorAssemblyInfo.cache
+/home/opc/projects/DoggoAppo/obj/Debug/net6.0/DoggoAppo.RazorAssemblyInfo.cs
 /home/opc/projects/DoggoAppo/obj/Debug/net6.0/staticwebassets.build.json
 /home/opc/projects/DoggoAppo/obj/Debug/net6.0/staticwebassets.development.json
 /home/opc/projects/DoggoAppo/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css

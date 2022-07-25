@@ -2,8 +2,8 @@
   "version": "2.0.0",
   "tasks": [{
       "label": "build",
-      "command": "/usr/bin/dotnet",
-      "type": "process",
+      "command": "dotnet",
+      "type": "shell",
       "args": [
         "build",
         "${workspaceFolder}/DoggoAppo.csproj",
@@ -14,8 +14,8 @@
     },
     {
       "label": "publish",
-      "command": "/usr/bin/dotnet",
-      "type": "process",
+      "command": "dotnet",
+      "type": "shell",
       "args": [
         "publish",
         "${workspaceFolder}/DoggoAppo.csproj",
@@ -26,8 +26,8 @@
     },
     {
       "label": "watch",
-      "command": "/usr/bin/dotnet",
-      "type": "process",
+      "command": "dotnet",
+      "type": "shell",
       "args": [
         "watch",
         "run",

@@ -11,12 +11,12 @@
 			<div class="card-body">
 				<form asp-controller="HelloWorld" asp-action="CreateDog" method="post">
 					<div class="mb-3">
-						<label for="" class="form-label">Doggo Name</label>
+						<label class="form-label">Doggo Name</label>
 						<input asp-for=Name type="text" class="form-control" />
 					</div>
 					<div class="mb-3">
-						<label asp-for=Age class="form-label from-control">Doggo Age</label>
-						<input type="text" class="form-control" />
+						<label class="form-label from-control">Doggo Age</label>
+						<input asp-for=Age type="text" class="form-control" />
 					</div>
 					<div class="mb-1">
 						<button type="submit" class="btn btn-primary">Save</button>
